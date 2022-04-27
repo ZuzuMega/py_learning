@@ -1,0 +1,6 @@
+thonВыделить код
+1
+2
+import os
+os.getcwd()
+0
