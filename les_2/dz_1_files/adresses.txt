@@ -1,0 +1,5 @@
+# Здесь нужно указать ip адреса или адреса сайтов построчно
+www.yuripetrov.ru
+pythonru.com
+pythonguides.com
+pythonworld.ru
