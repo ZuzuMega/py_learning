@@ -1,0 +1,46 @@
+Host: https://text.ru 
+Sitemap: https://text.ru/sitemaps/text.ru/sitemapIndex.xml 
+
+
+User-agent: Yandex
+Disallow: /text_check
+Disallow: /antiplagiat/*
+Disallow: /plagiarismchecker/*
+Allow: /antiplagiat/$
+Allow: /antiplagiat$
+Disallow: /css/
+Disallow: /js/
+Disallow: /*ajax*
+Disallow: /exchange/orders/
+Disallow: /exchange/orders/view/
+Disallow: /shop/articles/filter
+Disallow: /shop/news/filter
+Disallow: /user/
+Disallow: /rd/
+Disallow: /registration?r=
+Disallow: /registration/confirm
+Disallow: /registration/success
+Disallow: /image/get_shop_preview
+Disallow: /login?r=
+Clean-param: rv
+
+
+User-agent: *
+Disallow: /text_check/
+Disallow: /antiplagiat/
+Disallow: /plagiarismchecker/
+Disallow: /css/
+Disallow: /js/
+Disallow: /*ajax*
+Disallow: /exchange/orders/
+Disallow: /exchange/orders/view/
+Disallow: /shop/articles/filter
+Disallow: /shop/news/filter
+Disallow: /user/
+Disallow: /rd/
+Disallow: /registration?r=
+Disallow: /registration/confirm
+Disallow: /registration/success
+Disallow: /image/get_shop_preview
+Disallow: /login?r=
+Disallow: */?rv=
