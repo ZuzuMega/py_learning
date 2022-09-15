@@ -1,4 +1,1 @@
-import os
-
-pth = os.getcwd()
-print(pth)
+Начинаем изучать python по новой
