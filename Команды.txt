@@ -26,6 +26,7 @@
 
 	git config --global user.name - имя, которое отобразится в git
 	git config --global user.email - email, который отобразится в git
+	git config --global -l - посмотреть текущий email и user
 
 	git remote add origin $link_on_the_repos - размещение проекта в GitHub репозитории
 	git push -u origin master - пуш проекта в репозиторий GitHub
